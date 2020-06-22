@@ -1,0 +1,13 @@
+D:\.NET And WPF\BowlingAlleyRepo\obj\Debug\netcoreapp3.1\BowlingAlleyRepo.csprojAssemblyReference.cache
+D:\.NET And WPF\BowlingAlleyRepo\obj\Debug\netcoreapp3.1\BowlingAlleyRepo.csproj.CoreCompileInputs.cache
+D:\.NET And WPF\BowlingAlleyRepo\obj\Debug\netcoreapp3.1\BowlingAlleyRepo.AssemblyInfoInputs.cache
+D:\.NET And WPF\BowlingAlleyRepo\obj\Debug\netcoreapp3.1\BowlingAlleyRepo.AssemblyInfo.cs
+D:\.NET And WPF\BowlingAlleyRepo\bin\Debug\netcoreapp3.1\BowlingAlleyRepo.exe
+D:\.NET And WPF\BowlingAlleyRepo\bin\Debug\netcoreapp3.1\BowlingAlleyRepo.deps.json
+D:\.NET And WPF\BowlingAlleyRepo\bin\Debug\netcoreapp3.1\BowlingAlleyRepo.runtimeconfig.json
+D:\.NET And WPF\BowlingAlleyRepo\bin\Debug\netcoreapp3.1\BowlingAlleyRepo.runtimeconfig.dev.json
+D:\.NET And WPF\BowlingAlleyRepo\bin\Debug\netcoreapp3.1\BowlingAlleyRepo.dll
+D:\.NET And WPF\BowlingAlleyRepo\bin\Debug\netcoreapp3.1\BowlingAlleyRepo.pdb
+D:\.NET And WPF\BowlingAlleyRepo\obj\Debug\netcoreapp3.1\BowlingAlleyRepo.dll
+D:\.NET And WPF\BowlingAlleyRepo\obj\Debug\netcoreapp3.1\BowlingAlleyRepo.pdb
+D:\.NET And WPF\BowlingAlleyRepo\obj\Debug\netcoreapp3.1\BowlingAlleyRepo.genruntimeconfig.cache
